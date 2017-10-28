@@ -1,0 +1,72 @@
+
+body{
+	font-family: 'Josefin Slab', serif;
+	background: #fff url(https://www.fireflyforest.com/iridias_stuff/images/back/darkbackegd/cave.jpg);
+}
+
+h1 {
+	font-size: 50px;
+	font-weight: bolder;
+	color: #b7c8db;
+	padding-top:50px;
+	padding-bottom: 50px;
+	padding-left: 20px;
+	margin: 20px 50px 50px 0;
+	background-color: #778899;
+}
+
+h2 {
+	font-size: 30px;
+	font-weight: bold;
+}
+
+h3 {
+	color: #b7c8db;
+	font-size: 20px;
+}
+
+img {
+	float: left;
+	max-width: 200px;
+}
+
+section {
+	background-color: #778899;
+	float: left;
+	max-width: 40%;
+	margin-left: 5px;
+	padding: 15px;
+}
+
+#magicCard {
+	font-family: 'Nothing You Could Do', cursive;
+	color: black;
+	float: left;
+	background-color: #f4c875;
+	margin-left: 20px;
+	padding: 20px 40px 60px 40px;
+}
+
+#numberInsert {
+	font-family: 'Nothing You Could Do', cursive;
+	color: black;
+	font-size: 50px;
+	font-weight: bolder;
+	text-align: center;
+}
+
+#winLossData {
+	background-color: #778899;
+	float: left;
+	color: #b7c8db;
+	font-size:45px;
+	text-align: center;
+	width: 40%;
+	padding-top: 20px;
+	padding-bottom: 40px;
+	margin: 40px 0 0 20px;
+}
+
+#winNum {
+	padding-top: 20px;
+}
